@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Smear
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Body
+    m_Weight: 0
+  - m_Path: MOM
+    m_Weight: 0
+  - m_Path: MOM/Root
+    m_Weight: 0
+  - m_Path: MOM/Root/Hip
+    m_Weight: 0
+  - m_Path: MOM/Root/Hip/Spine
+    m_Weight: 1
+  - m_Path: MOM/Root/Hip/Spine/Arm_L
+    m_Weight: 1
+  - m_Path: MOM/Root/Hip/Spine/Arm_L/Hand_L
+    m_Weight: 1
+  - m_Path: MOM/Root/Hip/Spine/Arm_R
+    m_Weight: 1
+  - m_Path: MOM/Root/Hip/Spine/Arm_R/Arm_R_001
+    m_Weight: 1
+  - m_Path: MOM/Root/Hip/Spine/Head
+    m_Weight: 1
+  - m_Path: MOM/Root/Hip/Spine/Head/Eyes
+    m_Weight: 1
+  - m_Path: MOM/Root/Hip/Tail_1
+    m_Weight: 0
+  - m_Path: MOM/Root/Hip/Tail_1/Tail_2
+    m_Weight: 0
+  - m_Path: MOM/Root/Hip/Tail_1/Tail_2/Tail_3
+    m_Weight: 0
+  - m_Path: MOM/Root/Hip/ULeg_L
+    m_Weight: 0
+  - m_Path: MOM/Root/Hip/ULeg_L/Leg_L
+    m_Weight: 0
+  - m_Path: MOM/Root/Hip/ULeg_R
+    m_Weight: 0
+  - m_Path: MOM/Root/Hip/ULeg_R/Leg_R
+    m_Weight: 0
+  - m_Path: MOM/Root/SmearBone
+    m_Weight: 1
+  - m_Path: SwordSmear
+    m_Weight: 0
