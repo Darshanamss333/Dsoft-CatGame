@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - Ground
+  - 
+  - Bone
+  - PlayerLayer
+  - EnemyLayer
+  - CoinLayer
+  - 
+  - MapPins
+  - Map
+  - EditorOnly
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: _Map
+    uniqueID: 1722061951
+    locked: 0
+  - name: Back
+    uniqueID: 4071502383
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2593710775
+    locked: 0
+  - name: Enemy
+    uniqueID: 2216703079
+    locked: 0
+  - name: Player
+    uniqueID: 1714540023
+    locked: 0
+  - name: UnlockStuff
+    uniqueID: 1980760571
+    locked: 0
+  - name: Front
+    uniqueID: 1791516475
+    locked: 0
+  - name: CutScene
+    uniqueID: 3168195783
+    locked: 0
+  - name: Particles
+    uniqueID: 1365362033
+    locked: 0
